@@ -1,2 +1,2 @@
 # sql-comarch-erp-optima
-Portfolio zapytań SQL na bazie bazy demo Comarch ERP Optima – filtrowanie, JOIN, agregacje, HAVING.
+Portfolio zapytań SQL na bazie demo Comarch ERP Optima – filtrowanie, JOIN, agregacje, HAVING.
